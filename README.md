@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @AkoweOfure
+- 👋 Hi there, I’m Akowe Ofure
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other programmer and content creators
